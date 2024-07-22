@@ -1,0 +1,12 @@
+.imgDiv{
+    height: 500px;
+    width: 500px;
+}
+img{
+    width: 200px;
+    height: auto;
+    transition: opacity .3s ease;
+}
+.heading{
+    background-color: aqua;
+}
